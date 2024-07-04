@@ -1,0 +1,231 @@
+body {
+  margin: 0;
+  opacity: 1;
+  background: teal;
+}
+.container {
+  background-color: #1B244A;
+  display: flex;
+  justify-content: space-around;
+  width: 575px;
+  height: 385px;
+  gap: 0px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 30px;
+}
+
+.sc1{
+  width: 155px;
+  height: 120px;
+  top: 125px;
+  left: 337px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  
+    
+
+}
+.sc2{
+  width: 155px;
+  height: 120px;
+  top: 125px;
+  left: 337px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  
+
+
+}
+.homeleft{
+  color: #EEEEEE;
+
+  width: 149px;
+height: 36px;
+top: 68px;
+left: 85px;
+gap: 0px;
+opacity: 0px;
+font-family: Verdana;
+font-size: 40px;
+font-weight: 700;
+/*line-height: 35.89px;*/
+text-align: center;
+
+}
+.homeright{
+  color: #EEEEEE;
+
+  width: 149px;
+height: 36px;
+top: 68px;
+left: 340px;
+gap: 0px;
+opacity: 0px;
+font-family: Verdana;
+font-size: 40px;
+font-weight: 700;
+/*line-height: 35.89px;*/
+text-align: center;
+
+}
+.scorecard2{  color: #F94F6D;
+  background-color: black;
+  width: 155px;
+height: 120px;
+top: 125px;
+left: 337px;
+gap: 0px;
+border-radius: 25px 10px 10px 10px;
+opacity: 0px;
+font-family: Cursed Timer ULiL;
+font-size: 90px;
+font-weight: 400;
+line-height: 126.67px;
+text-align: center;
+
+
+}
+.scorecard1{  color: #F94F6D;
+  background-color: black;
+  width: 155px;
+height: 120px;
+top: 125px;
+left: 82px;
+gap: 0px;
+border-radius: 25px 10px 10px 10px;
+opacity: 0px;font-family: Cursed Timer ULiL;
+font-size: 90px;
+font-weight: 400;
+line-height: 126.67px;
+text-align: center;
+
+
+}
+.points1{
+  width: 155px;
+  height: 45px;
+  top: 271px;
+  left: 82px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+padding: 4;  
+margin: 4;
+
+
+
+}
+.points2{width: 155px;
+  height: 45px;
+  top: 271px;
+  left: 337px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  
+padding: 4;  
+margin: 4;
+
+
+
+}
+button{
+  color:  #9AABD8;
+  ;
+}
+.btn1{
+  width: 45px;
+height: 45px;
+top: 271px;
+left: 82px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;  border: 2px solid #9AABD8;
+padding: 10px; /* Adjust the padding value as needed */
+background-color: transparent; /* Ensure the background is transparent */
+opacity: 1; /* Make sure the element is fully visible */
+
+
+}.btn2{
+  width: 45px;
+height: 45px;
+top: 271px;
+left: 136px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;  border: 2px solid #9AABD8;
+opacity: 0px;  border: 2px solid #9AABD8;
+padding: 10px; /* Adjust the padding value as needed */
+background-color: transparent; /* Ensure the background is transparent */
+opacity: 1; /* Make sure the element is fully visible */
+
+
+}
+.btn3{
+  width: 45px;
+height: 45px;
+top: 271px;
+left: 192px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid #9AABD8;
+
+opacity: 0px;  border: 2px solid #9AABD8;
+padding: 10px; /* Adjust the padding value as needed */
+background-color: transparent; /* Ensure the background is transparent */
+opacity: 1; /* Make sure the element is fully visible */
+
+}
+.btn4{width: 45px;
+  height: 45px;
+  top: 271px;
+  left: 337px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  
+  border: 2px solid #9AABD8;
+  
+opacity: 0px;  border: 2px solid #9AABD8;
+padding: 10px; /* Adjust the padding value as needed */
+background-color: transparent; /* Ensure the background is transparent */
+opacity: 1; /* Make sure the element is fully visible */
+
+
+}.btn5{width: 45px;
+  height: 45px;
+  top: 271px;
+  left: 391px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  border: 2px solid #9AABD8;
+  
+opacity: 0px;  border: 2px solid #9AABD8;
+padding: 10px; /* Adjust the padding value as needed */
+background-color: transparent; /* Ensure the background is transparent */
+opacity: 1; /* Make sure the element is fully visible */
+
+
+}
+.btn6{
+  width: 45px;
+  height: 45px;
+  top: 271px;
+  left: 447px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  border: 2px solid #9AABD8;
+  
+opacity: 0px;  border: 2px solid #9AABD8;
+padding: 10px; /* Adjust the padding value as needed */
+background-color: transparent; /* Ensure the background is transparent */
+opacity: 1; /* Make sure the element is fully visible */
+}
