@@ -19,7 +19,7 @@ function updateScore(points) {
   // Switch player
   currentPlayer = currentPlayer === 1 ? 2 : 1;
 
-  // Reset and start the timer for the next player
+  // Reset & start the timer for the next player
   clearTimeout(timer);
   timer = setTimeout(checkWinner, 30000); // 30 seconds timer
 }
@@ -48,7 +48,7 @@ function checkWinner() {
   }
 }
 if (scoreCard1 >= 1 || scoreCard2 >=1){
-  // Initial timer start
+  // Initial timer start and also checking if the players have started playing or not if not thant the timer won't initate 
 timer = setTimeout(checkWinner, 30000); // 30 seconds timer
 console.log("Timer worked");
 }
